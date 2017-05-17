@@ -22,7 +22,8 @@ image=1.png|class=fragment|data-fragment-index=2|phrase=我有哥哥|class=fragm
 image=2.png|class=fragment|data-fragment-index=2|phrase=我有姐姐|class=fragment|data-fragment-index=1|pinyin=|
 image=6.png|class=fragment|data-fragment-index=2|phrase=我有弟弟|class=fragment|data-fragment-index=1|pinyin=|
 image=7.png|class=fragment|data-fragment-index=2|phrase=我有妹妹|class=fragment|data-fragment-index=1|pinyin=|
-string=他有哥哥　他没有姐姐|class=fragment|data-fragment-index=1|pinyin=|phrase=他有哥哥，他没有姐姐。||phrase=　|string=她没有弟弟　她有妹妹|class=fragment|data-fragment-index=3|pinyin=||class=fragment|data-fragment-index=2|phrase=她没有弟弟，她有妹妹。
+string=他有哥哥|class=fragment|data-fragment-index=1|pinyin=|phrase=他有哥哥，||phrase=　|string=他没有姐姐|class=fragment|data-fragment-index=3|pinyin=||class=fragment|data-fragment-index=2|phrase=他没有姐姐。
+string=她没有弟弟|class=fragment|data-fragment-index=1|pinyin=|phrase=她没有弟弟，||phrase=　|string=她有妹妹|class=fragment|data-fragment-index=3|pinyin=||class=fragment|data-fragment-index=2|phrase=她有妹妹。
 string=你有哥哥|class=fragment|data-fragment-index=1|pinyin=|phrase=你有哥哥。|phrase=　|string=你有哥哥吗|class=fragment|data-fragment-index=3|pinyin=||class=fragment|data-fragment-index=2|phrase=你有哥哥吗？
 string=你有姐姐|class=fragment|data-fragment-index=1|pinyin=|phrase=你有姐姐。|phrase=　|string=你有姐姐吗|class=fragment|data-fragment-index=3|pinyin=||class=fragment|data-fragment-index=2|phrase=你有姐姐吗？
 string=你有弟弟吗|class=fragment|data-fragment-index=1|pinyin=|phrase=你有弟弟吗？|phrase=　|string=我有弟弟|class=fragment|data-fragment-index=3|pinyin=||class=fragment|data-fragment-index=2|phrase=我有弟弟。
@@ -36,3 +37,22 @@ string=你的姐姐几岁|class=fragment|data-fragment-index=1|pinyin=|phrase=�
 string=你的弟弟几岁|class=fragment|data-fragment-index=1|pinyin=|phrase=你的弟弟几岁？|phrase=　|string=我的弟弟五岁|class=fragment|data-fragment-index=3|pinyin=||class=fragment|data-fragment-index=2|phrase=我的弟弟五岁。
 string=你的妹妹几岁|class=fragment|data-fragment-index=1|pinyin=|phrase=你的妹妹几岁？|phrase=　|string=我的妹妹三岁|class=fragment|data-fragment-index=3|pinyin=||class=fragment|data-fragment-index=2|phrase=我的妹妹三岁。
 |captain=Good Job
+
+string=他有爸爸吗|class=fragment|data-fragment-index=1|pinyin=|phrase=他有爸爸吗？|phrase=　|string=他有爸爸|class=fragment|data-fragment-index=3|pinyin=||class=fragment|data-fragment-index=2|phrase=他有爸爸。
+string=他有妈妈吗|class=fragment|data-fragment-index=1|pinyin=|phrase=他有妈妈吗？|phrase=　|string=他有妈妈|class=fragment|data-fragment-index=3|pinyin=||class=fragment|data-fragment-index=2|phrase=他有妈妈。
+string=他有哥哥吗|class=fragment|data-fragment-index=1|pinyin=|phrase=他有哥哥吗？|phrase=　|string=他没有哥哥|class=fragment|data-fragment-index=3|pinyin=||class=fragment|data-fragment-index=2|phrase=他没有哥哥。
+string=他有姐姐吗|class=fragment|data-fragment-index=1|pinyin=|phrase=他有姐姐吗？|phrase=　|string=他没有姐姐|class=fragment|data-fragment-index=3|pinyin=||class=fragment|data-fragment-index=2|phrase=他没有姐姐。
+string=他有弟弟吗|class=fragment|data-fragment-index=1|pinyin=|phrase=他有弟弟吗？|phrase=　|string=他有弟弟|class=fragment|data-fragment-index=3|pinyin=||class=fragment|data-fragment-index=2|phrase=他有弟弟。
+string=他有妹妹吗|class=fragment|data-fragment-index=1|pinyin=|phrase=他有妹妹吗？|phrase=　|string=他没有妹妹|class=fragment|data-fragment-index=3|pinyin=||class=fragment|data-fragment-index=2|phrase=他没有妹妹。
+image=z/3.00.52.png|class=fragment|data-fragment-index=2|phrase=几|class=fragment|data-fragment-index=1|pinyin=|
+image=z/3.02.20.png|class=fragment|data-fragment-index=2|phrase=岁|class=fragment|data-fragment-index=1|pinyin=|
+string=你几岁|class=fragment|data-fragment-index=1|pinyin=|phrase=你几岁？|phrase=　|string=我十岁|class=fragment|data-fragment-index=3|pinyin=||class=fragment|data-fragment-index=2|phrase=我十岁。
+
+
+
+string=你的爸爸几岁|class=fragment|data-fragment-index=1|pinyin=|phrase=你的爸爸几岁？|phrase=　|string=我的爸爸四十岁|class=fragment|data-fragment-index=3|pinyin=||class=fragment|data-fragment-index=2|phrase=我的爸爸四十岁。
+string=你的妈妈几岁|class=fragment|data-fragment-index=1|pinyin=|phrase=你的妈妈几岁？|phrase=　|string=我的妈妈三十五岁|class=fragment|data-fragment-index=3|pinyin=||class=fragment|data-fragment-index=2|phrase=我的妈妈三十五岁。
+string=你的哥哥几岁|class=fragment|data-fragment-index=1|pinyin=|phrase=你的哥哥几岁？|phrase=　|string=我的哥哥十七岁|class=fragment|data-fragment-index=3|pinyin=||class=fragment|data-fragment-index=2|phrase=我的哥哥十七岁。
+string=你的姐姐几岁|class=fragment|data-fragment-index=1|pinyin=|phrase=你的姐姐几岁？|phrase=　|string=我的姐姐十九岁|class=fragment|data-fragment-index=3|pinyin=||class=fragment|data-fragment-index=2|phrase=我的姐姐十九岁。
+string=你的弟弟几岁|class=fragment|data-fragment-index=1|pinyin=|phrase=你的弟弟几岁？|phrase=　|string=我的弟弟五岁|class=fragment|data-fragment-index=3|pinyin=||class=fragment|data-fragment-index=2|phrase=我的弟弟五岁。
+string=你的妹妹几岁|class=fragment|data-fragment-index=1|pinyin=|phrase=你的妹妹几岁？|phrase=　|string=我十岁|class=fragment|data-fragment-index=3|pinyin=||class=fragment|data-fragment-index=2|phrase=我的妹妹三岁。

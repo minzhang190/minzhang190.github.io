@@ -18,6 +18,10 @@
 	text-transform: none !important;
 }
 
+.vocab-text-captain-zh {
+	font-family: Georgia, "Nimbus Roman No9 L", "Songti SC", STSong, "AR PL New Sung", "AR PL SungtiL GB", NSimSun, SimSun, "TW\-Sung", "WenQuanYi Bitmap Song", "AR PL UMing CN", "AR PL UMing HK", "AR PL UMing TW", "AR PL UMing TW MBE", PMingLiU, MingLiU, serif !important;
+}
+
 .vocab-text-table * {
 	border: none !important;
 	text-align: center;
@@ -31,6 +35,7 @@
 	color: inherit !important;
 	text-transform: none !important;
 	font-weight: bold !important;
+	font-family: Georgia, "Nimbus Roman No9 L", "Songti SC", STSong, "AR PL New Sung", "AR PL SungtiL GB", NSimSun, SimSun, "TW\-Sung", "WenQuanYi Bitmap Song", "AR PL UMing CN", "AR PL UMing HK", "AR PL UMing TW", "AR PL UMing TW MBE", PMingLiU, MingLiU, serif !important;
 }
 
 .vocab-text-pinyin {
@@ -53,4 +58,10 @@
 	width: 80%;
 	height: auto;
 	border: none !important;
+}
+
+.vocab-inline-img {
+	position: absolute;
+	border: none !important;
+	margin: 0 !important;
 }
