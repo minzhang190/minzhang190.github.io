@@ -1,0 +1,38 @@
+[
+	{
+		"image": "folder.png",
+		"text": "文件夹",
+		"ruby": "wén jiàn jiā",
+		"audio": "1f4c1042ed0080cf3526644f92248ddc.mp3"
+	},
+	{
+		"image": "internet.png",
+		"text": "互联网",
+		"ruby": "hù lián wǎng",
+		"audio": "f27b59fafea3e9ffcf3f6993c1c1439e.mp3"
+	},
+	{
+		"image": "envelope.png",
+		"text": "信封",
+		"ruby": "xìn fēng",
+		"audio": "e2113d88d487653da85f66906bdb61b8.mp3"
+	},
+	{
+		"image": "desk_office.png",
+		"text": "办公桌",
+		"ruby": "bàn gōng zhuō",
+		"audio": "d6b514d858b61e0eb1ec22eaf582327a.mp3"
+	},
+	{
+		"image": "chair_office.png",
+		"text": "椅子",
+		"ruby": "yǐ zi",
+		"audio": "43876e08258b6d640624826379246636.mp3"
+	},
+	{
+		"image": "filingCabinet.png",
+		"text": "档案柜",
+		"ruby": "dàng àn guì",
+		"audio": "c07808fb6070a9caa04bd969cb187816.mp3"
+	}
+]

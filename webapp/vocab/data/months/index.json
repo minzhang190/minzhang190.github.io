@@ -1,0 +1,74 @@
+[
+	{
+		"image": "january.png",
+		"text": "一月",
+		"ruby": "yí yuè",
+		"audio": "43bc301e73522b009a4b39851960d8a7.mp3"
+	},
+	{
+		"image": "february.png",
+		"text": "二月",
+		"ruby": "èr yuè",
+		"audio": "b61c626886430a4acd373923dc529d8c.mp3"
+	},
+	{
+		"image": "march.png",
+		"text": "三月",
+		"ruby": "sān yuè",
+		"audio": "eade91dc002fb276234cefd4797f14f5.mp3"
+	},
+	{
+		"image": "april.png",
+		"text": "四月",
+		"ruby": "sì yuè",
+		"audio": "5178fda8e7cb6387857aee58d0f4421c.mp3"
+	},
+	{
+		"image": "may.png",
+		"text": "五月",
+		"ruby": "wǔ yuè",
+		"audio": "cd474e412550648feb12ca4d403a92f0.mp3"
+	},
+	{
+		"image": "june.png",
+		"text": "六月",
+		"ruby": "liù yuè",
+		"audio": "dc71b73f68d6da2249821b6286607fc4.mp3"
+	},
+	{
+		"image": "july.png",
+		"text": "七月",
+		"ruby": "qī yuè",
+		"audio": "328dcec7ed9cbefbf25f6b0e8705bd0b.mp3"
+	},
+	{
+		"image": "august.png",
+		"text": "八月",
+		"ruby": "bā yuè",
+		"audio": "b7263939aca94fe05e8e1a59988acc93.mp3"
+	},
+	{
+		"image": "september.png",
+		"text": "九月",
+		"ruby": "jiǔ yuè",
+		"audio": "cd9559ebaf7c4a24306825fff379f9c3.mp3"
+	},
+	{
+		"image": "october.png",
+		"text": "十月",
+		"ruby": "shí yuè",
+		"audio": "ade2e82d676a35f2bb8246543d3c679d.mp3"
+	},
+	{
+		"image": "november.png",
+		"text": "十一月",
+		"ruby": "shí yī yuè",
+		"audio": "4e04f1a9c3b32bc1a606662db8bb89ac.mp3"
+	},
+	{
+		"image": "december.png",
+		"text": "十二月",
+		"ruby": "shí èr yuè",
+		"audio": "5c28133800a208faf12b88b4d88e039b.mp3"
+	}
+]

@@ -1,0 +1,56 @@
+[
+	{
+		"image": "eyebrow.png",
+		"text": "眉毛",
+		"ruby": "méi mao",
+		"audio": "677cf628dc2a0dfca350a6c2b7f76799.mp3"
+	},
+	{
+		"image": "knee.png",
+		"text": "膝盖",
+		"ruby": "xī gài",
+		"audio": "facb2fcf2d4a2feeff8040f48e271c0b.mp3"
+	},
+	{
+		"image": "stomach.png",
+		"text": "肚子",
+		"ruby": "dǔ zi",
+		"audio": "6a3a1a2cb60d60066136cb521d76794c.mp3"
+	},
+	{
+		"image": "tooth.png",
+		"text": "牙齿",
+		"ruby": "yá chǐ",
+		"audio": "8638771c0d883aa614add99872bcd6d7.mp3"
+	},
+	{
+		"image": "leg.png",
+		"text": "腿",
+		"ruby": "tuǐ",
+		"audio": "9d023c6d9baab342350b143564c2496c.mp3"
+	},
+	{
+		"image": "neck.png",
+		"text": "脖子",
+		"ruby": "bó zi",
+		"audio": "73fab6c3d64c12b0e7456971c2daf25f.mp3"
+	},
+	{
+		"image": "toe.png",
+		"text": "脚趾",
+		"ruby": "jiǎo zhǐ",
+		"audio": "0dec398e65435e71e2b403ce6af3fe7c.mp3"
+	},
+	{
+		"image": "back.png",
+		"text": "后背",
+		"ruby": "hòu bèi",
+		"audio": "8897bd6f52e9e66b32ee4b145efa6fea.mp3"
+	},
+	{
+		"image": "elbow.png",
+		"text": "手肘",
+		"ruby": "shǒu zhǒu",
+		"audio": "e762fd5035d3d3b984a7d28b19ff1aed.mp3"
+	}
+]

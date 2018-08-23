@@ -1,0 +1,50 @@
+[
+	{
+		"image": "bed.png",
+		"text": "床",
+		"ruby": "chuáng",
+		"audio": "1696a59602594c1a02f5f15066a9785a.mp3"
+	},
+	{
+		"image": "blanket.png",
+		"text": "毯子",
+		"ruby": "tǎn zi",
+		"audio": "1a459bcf453853aeea5e7743b04f5fb7.mp3"
+	},
+	{
+		"image": "carpet.png",
+		"text": "地毯",
+		"ruby": "dì tǎn",
+		"audio": "8e972701ac412626c6f4218e94ea0272.mp3"
+	},
+	{
+		"image": "chair_bedroom.png",
+		"text": "椅子",
+		"ruby": "yǐ zi",
+		"audio": "43876e08258b6d640624826379246636.mp3"
+	},
+	{
+		"image": "chestOfDrawers.png",
+		"text": "柜子",
+		"ruby": "guì zi",
+		"audio": "3da146470eeb8c5e7f2ae2e306a340ab.mp3"
+	},
+	{
+		"image": "clock.png",
+		"text": "闹钟",
+		"ruby": "nào zhōng",
+		"audio": "23fcc3fd4807b759b40858ccf0d596d4.mp3"
+	},
+	{
+		"image": "lamp.png",
+		"text": "台灯",
+		"ruby": "tái dēng",
+		"audio": "3c5212347a187c32bd6757f9c7934dff.mp3"
+	},
+	{
+		"image": "pillow.png",
+		"text": "枕头",
+		"ruby": "zhěn tou",
+		"audio": "86750ef0381160b3fb7971b6eee7641e.mp3"
+	}
+]

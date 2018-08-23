@@ -1,0 +1,62 @@
+[
+	{
+		"image": "one.png",
+		"text": "一",
+		"ruby": "yī",
+		"audio": "7941da94db2a83c04d0d85ee45ecb1e3.mp3"
+	},
+	{
+		"image": "two.png",
+		"text": "二",
+		"ruby": "èr",
+		"audio": "2d8be272c9e78713e31e5c0c165422bb.mp3"
+	},
+	{
+		"image": "three.png",
+		"text": "三",
+		"ruby": "sān",
+		"audio": "e662ff59a0da04db4f9323b6b6197015.mp3"
+	},
+	{
+		"image": "four.png",
+		"text": "四",
+		"ruby": "sì",
+		"audio": "21716cf311071e8d339b611c8bdce9e4.mp3"
+	},
+	{
+		"image": "five.png",
+		"text": "五",
+		"ruby": "wǔ",
+		"audio": "1fcc29d077c043016d325c68d328187f.mp3"
+	},
+	{
+		"image": "six.png",
+		"text": "六",
+		"ruby": "liù",
+		"audio": "61b453523d86ac98afd3c98bdf1b0f9d.mp3"
+	},
+	{
+		"image": "seven.png",
+		"text": "七",
+		"ruby": "qī",
+		"audio": "aad6914f8f4e0871030b7c6814f752e6.mp3"
+	},
+	{
+		"image": "eight.png",
+		"text": "八",
+		"ruby": "bā",
+		"audio": "edf1acd5c6576c6d0eac12a8127b3830.mp3"
+	},
+	{
+		"image": "nine.png",
+		"text": "九",
+		"ruby": "jiǔ",
+		"audio": "9b4851f85d53f5b6117f5ad823d1e18c.mp3"
+	},
+	{
+		"image": "ten.png",
+		"text": "十",
+		"ruby": "shí",
+		"audio": "181245720b7774e764cf1000e569d5d2.mp3"
+	}
+]

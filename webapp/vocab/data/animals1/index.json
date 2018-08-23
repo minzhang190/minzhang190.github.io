@@ -1,0 +1,26 @@
+[
+	{
+		"image": "cat.png",
+		"text": "小猫",
+		"ruby": "xiǎo māo",
+		"audio": "acf5547a8c991e92e89988fd0f972b93.mp3"
+	},
+	{
+		"image": "dog.png",
+		"text": "小狗",
+		"ruby": "xiǎo gǒu",
+		"audio": "541167ce902c20e625e89cc687e18c50.mp3"
+	},
+	{
+		"image": "bird.png",
+		"text": "小鸟",
+		"ruby": "xiǎo niǎo",
+		"audio": "0dfb791e2825be289fe59551f84becce.mp3"
+	},
+	{
+		"image": "butterfly.png",
+		"text": "蝴蝶",
+		"ruby": "hú dié",
+		"audio": "4d192dbe97708b085c5e16c6f02a1d29.mp3"
+	}
+]

@@ -1,0 +1,38 @@
+[
+	{
+		"image": "toilet.png",
+		"text": "马桶",
+		"ruby": "mǎ tǒng",
+		"audio": "fae92448daeec5ab633541df2bbb8053.mp3"
+	},
+	{
+		"image": "toiletPaper.png",
+		"text": "卫生纸",
+		"ruby": "wèi shēng zhǐ",
+		"audio": "4c2ebc1365bb5d44b6ed9bf130b21b07.mp3"
+	},
+	{
+		"image": "toothbrush.png",
+		"text": "牙刷",
+		"ruby": "yá shuā",
+		"audio": "e2ebdc46400c019114d3ec1acc190aa4.mp3"
+	},
+	{
+		"image": "toothpaste.png",
+		"text": "牙膏",
+		"ruby": "yá gāo",
+		"audio": "07f6094ca2a12d7290021bb6c201e631.mp3"
+	},
+	{
+		"image": "soap.png",
+		"text": "肥皂",
+		"ruby": "féi zào",
+		"audio": "84302ebd5f55de0eaed8500888924433.mp3"
+	},
+	{
+		"image": "towel.png",
+		"text": "毛巾",
+		"ruby": "máo jīn",
+		"audio": "83fb7476dd9b75492ea5774df579f27e.mp3"
+	}
+]

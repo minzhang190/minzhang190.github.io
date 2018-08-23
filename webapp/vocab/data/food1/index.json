@@ -1,0 +1,32 @@
+[
+	{
+		"image": "bread.png",
+		"text": "面包",
+		"ruby": "miàn bāo",
+		"audio": "e51a450767100cc3fc339a2bf3f2b3a4.mp3"
+	},
+	{
+		"image": "egg.png",
+		"text": "鸡蛋",
+		"ruby": "jī dàn",
+		"audio": "bd29625b48354fa42e67ba1e017d9c92.mp3"
+	},
+	{
+		"image": "milk.png",
+		"text": "牛奶",
+		"ruby": "niú nǎi",
+		"audio": "7a5794ace915548d4c63821328554fc0.mp3"
+	},
+	{
+		"image": "juice.png",
+		"text": "果汁",
+		"ruby": "guǒ zhī",
+		"audio": "94a755afe77ae363c48d230abdfdd8cd.mp3"
+	},
+	{
+		"image": "water.png",
+		"text": "水",
+		"ruby": "shuǐ",
+		"audio": "eab619fba24a1ea828eebee4f54a138f.mp3"
+	}
+]

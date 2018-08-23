@@ -1,0 +1,38 @@
+[
+	{
+		"image": "boots.png",
+		"text": "靴子",
+		"ruby": "xuē zi",
+		"audio": "285eb67388c6b1ea5902229589822db6.mp3"
+	},
+	{
+		"image": "jeans.png",
+		"text": "牛仔裤",
+		"ruby": "niú zǎi kù",
+		"audio": "587b5aa9df7941882614a02c4a0f83b9.mp3"
+	},
+	{
+		"image": "pajamas.png",
+		"text": "睡衣",
+		"ruby": "shuì yī",
+		"audio": "0d4f37e2819c5c82578ccdf9d0b59eb4.mp3"
+	},
+	{
+		"image": "shorts.png",
+		"text": "短裤",
+		"ruby": "duǎn kù",
+		"audio": "9dfb53f1133619350aed0b8d7c7c65db.mp3"
+	},
+	{
+		"image": "skirt.png",
+		"text": "短裙",
+		"ruby": "duǎn qún",
+		"audio": "d7023532011019f610643954b7808f85.mp3"
+	},
+	{
+		"image": "sweater.png",
+		"text": "毛衣",
+		"ruby": "máo yī",
+		"audio": "32d5f4e754e30df60d17aec013f2df29.mp3"
+	}
+]

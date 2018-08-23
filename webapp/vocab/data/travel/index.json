@@ -1,0 +1,68 @@
+[
+	{
+		"image": "airplane.png",
+		"text": "飞机",
+		"ruby": "fēi jī",
+		"audio": "16678800cfd0dbafee362ea4ba12edd3.mp3"
+	},
+	{
+		"image": "bicycle.png",
+		"text": "自行车",
+		"ruby": "zì xíng chē",
+		"audio": "b73c6e34a130cf974cb45cfd0aa921a2.mp3"
+	},
+	{
+		"image": "bus.png",
+		"text": "公交车",
+		"ruby": "gōng jiāo chē",
+		"audio": "70b46ee9e8ad6e8d06302fe762b3efe5.mp3"
+	},
+	{
+		"image": "car.png",
+		"text": "轿车",
+		"ruby": "jiào chē",
+		"audio": "fe69db6219b137af5a25146101ff9415.mp3"
+	},
+	{
+		"image": "helicopter.png",
+		"text": "直升机",
+		"ruby": "zhí shēng jī",
+		"audio": "7e1c8fdea94feeaf74f9535fb657a998.mp3"
+	},
+	{
+		"image": "motorcycle.png",
+		"text": "摩托车",
+		"ruby": "mó tuō chē",
+		"audio": "fed19a817b3427b634cb351c0e073041.mp3"
+	},
+	{
+		"image": "ship.png",
+		"text": "船",
+		"ruby": "chuán",
+		"audio": "7def9ee0ca92d01f237409a1d0034a60.mp3"
+	},
+	{
+		"image": "subway.png",
+		"text": "地铁",
+		"ruby": "dì tiě",
+		"audio": "9266202469b6af80dda039da6cf771ca.mp3"
+	},
+	{
+		"image": "train.png",
+		"text": "火车",
+		"ruby": "huǒ chē",
+		"audio": "e7e95e68131111d2919ca22be536d85c.mp3"
+	},
+	{
+		"image": "truck.png",
+		"text": "卡车",
+		"ruby": "kǎ chē",
+		"audio": "b728f6204f90f1c187c33adc74fa5cf5.mp3"
+	},
+	{
+		"image": "wheelchair.png",
+		"text": "轮椅",
+		"ruby": "lún yǐ",
+		"audio": "9e0e68cd42e75b6dc0ad4c1d10d599a8.mp3"
+	}
+]

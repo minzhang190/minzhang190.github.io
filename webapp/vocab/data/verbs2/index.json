@@ -1,0 +1,44 @@
+[
+	{
+		"image": "run.png",
+		"text": "跑",
+		"ruby": "pǎo",
+		"audio": "c5032ff770b776c513513949401b7b2f.mp3"
+	},
+	{
+		"image": "dance.png",
+		"text": "跳舞",
+		"ruby": "tiào wǔ",
+		"audio": "fad50bfdcb7df88758d1af8f86b52caf.mp3"
+	},
+	{
+		"image": "sing.png",
+		"text": "唱歌",
+		"ruby": "chàng gē",
+		"audio": "d49c9b66f60fcd18b35d7c0e5e97bc12.mp3"
+	},
+	{
+		"image": "draw.png",
+		"text": "画",
+		"ruby": "huà",
+		"audio": "2287851dee7c97db36853e81024a33ca.mp3"
+	},
+	{
+		"image": "read.png",
+		"text": "读",
+		"ruby": "dú",
+		"audio": "75769d1ac812a1d9556e5a79416a1def.mp3"
+	},
+	{
+		"image": "write.png",
+		"text": "写",
+		"ruby": "xiě",
+		"audio": "4d7dc6c5f886053abc31cee1376fb5c0.mp3"
+	},
+	{
+		"image": "talk.png",
+		"text": "说",
+		"ruby": "shuō",
+		"audio": "ddc9d3d10db69cba331ae2403776ee36.mp3"
+	}
+]
