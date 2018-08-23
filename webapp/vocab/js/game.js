@@ -35,6 +35,12 @@
     var score = 0;
     var scoreDisplay = 0;
     var scoreInterval = null;
+    window.gameClearScoreInterval = function() {
+        if (scoreInterval != null) {
+            window.clearInterval(scoreInterval);
+            scoreInterval = null;
+        }
+    };
     window.gameSetScore = function(newScore) {
         score = newScore;
 
@@ -44,8 +50,7 @@
 
         scoreInterval = window.setInterval(function() {
             if (score == scoreDisplay) {
-                window.clearInterval(scoreInterval);
-                scoreInterval = null;
+                window.gameClearScoreInterval();
                 return;
             }
 
@@ -62,7 +67,7 @@
     window.gameInitScore = function(newScore) {
         score = scoreDisplay = newScore;
         $('#game-score').text(scoreDisplay);
-        window.clearInterval(scoreInterval);
+        window.gameClearScoreInterval();
     };
     window.gameAddScore = function(increment) {
         window.gameSetScore(score + increment);
@@ -115,7 +120,7 @@
     window.gameShowScoreboard = function(totalStars, retry, next) {
         // Clean up
         window.clearInterval(countdownInterval);
-        window.clearInterval(scoreInterval);
+        window.gameClearScoreInterval();
 
         $('#scoreboard').modal({
             backdrop: 'static',
