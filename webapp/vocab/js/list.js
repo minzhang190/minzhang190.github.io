@@ -8,6 +8,10 @@
             var json = this;
             var $btnGroup = $('<div class="btn-group"></div>');
 
+            $('<button type="button" class="btn btn-secondary">Learn</button>').click(function() {
+                window.showLearn(json.id);
+            }).appendTo($btnGroup);
+
             $('<button type="button" class="btn btn-secondary">Game1</button>').click(function() {
                 window.showGame1(json.id);
             }).appendTo($btnGroup);

@@ -1,0 +1,75 @@
+#learn {
+    height: 100vh;
+}
+
+#learn-body {
+    height: 80vh;
+    display: table;
+    width: 100%;
+}
+
+#learn-left, #learn-right {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+#learn-left {
+    text-align: center;
+    position: relative;
+    width: 50vh;
+}
+
+.learn-card {
+    display: inline-block;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.learn-card-img {
+    height: 48vh; /* 50 - 1 * 2 */
+    width: auto;
+    border-width: 1vh !important;
+    background-color: white;
+}
+
+.learn-card.exit {
+    animation-name: learn-card-exit;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes learn-card-exit {
+    from {
+        opacity: 1;
+    }
+    to {
+        opacity: 0;
+    }
+}
+
+#learn-right {
+    font-size: 10vh;
+}
+
+#learn-right div {
+    margin: 5vh;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+#learn-right div.enter {
+    animation-name: learn-right-enter;
+    animation-duration: 1s;
+    animation-timing-function: linear;
+}
+
+@keyframes learn-right-enter {
+    from {
+        width: 0%;
+    }
+    to {
+        width: 100%;
+    }
+}

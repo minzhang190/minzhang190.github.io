@@ -3,36 +3,42 @@
 		"image": "socks.png",
 		"text": "袜子",
 		"ruby": "wà zi",
-		"audio": "b23963f121e5d353a9a2b08da6ec218b.mp3"
+		"audio": "b23963f121e5d353a9a2b08da6ec218b.mp3",
+		"explain": "socks"
 	},
 	{
 		"image": "dress.png",
 		"text": "裙子",
 		"ruby": "qún zi",
-		"audio": "556b6f00f4d6e790553a126ae397c9ee.mp3"
+		"audio": "556b6f00f4d6e790553a126ae397c9ee.mp3",
+		"explain": "dress"
 	},
 	{
 		"image": "shirt.png",
 		"text": "衬衫",
 		"ruby": "chèn shān",
-		"audio": "e91bb131a2580eb858cc6cbb97faa9d5.mp3"
+		"audio": "e91bb131a2580eb858cc6cbb97faa9d5.mp3",
+		"explain": "shirt"
 	},
 	{
 		"image": "tShirt.png",
 		"text": "T恤",
 		"ruby": "T xù",
-		"audio": "7f320be46d89cc75a12c6f7e0f152167.mp3"
+		"audio": "7f320be46d89cc75a12c6f7e0f152167.mp3",
+		"explain": "t shirt"
 	},
 	{
 		"image": "pants.png",
 		"text": "裤子",
 		"ruby": "kù zi",
-		"audio": "f2bdf96832bf638b400c59bab1a21cb4.mp3"
+		"audio": "f2bdf96832bf638b400c59bab1a21cb4.mp3",
+		"explain": "pants"
 	},
 	{
 		"image": "jacket.png",
 		"text": "夹克",
 		"ruby": "jiá kè",
-		"audio": "29ae9cb38de111118bf887c0389a002f.mp3"
+		"audio": "29ae9cb38de111118bf887c0389a002f.mp3",
+		"explain": "jacket"
 	}
 ]

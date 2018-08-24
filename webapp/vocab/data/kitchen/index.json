@@ -3,54 +3,63 @@
 		"image": "apron.png",
 		"text": "围裙",
 		"ruby": "wéi qún",
-		"audio": "44c4ae9246269f61ab8f84bda29868f7.mp3"
+		"audio": "44c4ae9246269f61ab8f84bda29868f7.mp3",
+		"explain": "apron"
 	},
 	{
 		"image": "cup.png",
 		"text": "杯子",
 		"ruby": "bēi zi",
-		"audio": "51baa713ed466f8306e69964cc30fb72.mp3"
+		"audio": "51baa713ed466f8306e69964cc30fb72.mp3",
+		"explain": "cup"
 	},
 	{
 		"image": "fork.png",
 		"text": "叉子",
 		"ruby": "chā zǐ",
-		"audio": "9a76e9ade74bdb358c00fc00bc503442.mp3"
+		"audio": "9a76e9ade74bdb358c00fc00bc503442.mp3",
+		"explain": "fork"
 	},
 	{
 		"image": "garbageCan.png",
 		"text": "垃圾箱",
 		"ruby": "lā jī xiāng",
-		"audio": "24e8a8db5ce09819041456c3803a795d.mp3"
+		"audio": "24e8a8db5ce09819041456c3803a795d.mp3",
+		"explain": "garbage can"
 	},
 	{
 		"image": "knife.png",
 		"text": "刀",
 		"ruby": "dāo",
-		"audio": "83f6c0da39d2f0341b8b76e2564c415a.mp3"
+		"audio": "83f6c0da39d2f0341b8b76e2564c415a.mp3",
+		"explain": "knife"
 	},
 	{
 		"image": "plate.png",
 		"text": "盘子",
 		"ruby": "pán zi",
-		"audio": "068719593d88ac21b267f30d31f38583.mp3"
+		"audio": "068719593d88ac21b267f30d31f38583.mp3",
+		"explain": "plate"
 	},
 	{
 		"image": "refrigerator.png",
 		"text": "冰箱",
 		"ruby": "bīng xiāng",
-		"audio": "acea208117817c21a14c68b929110814.mp3"
+		"audio": "acea208117817c21a14c68b929110814.mp3",
+		"explain": "refrigerator"
 	},
 	{
 		"image": "spoon.png",
 		"text": "勺子",
 		"ruby": "sháo zi",
-		"audio": "105f49757843de6e32d921e1a9051487.mp3"
+		"audio": "105f49757843de6e32d921e1a9051487.mp3",
+		"explain": "spoon"
 	},
 	{
 		"image": "skillet.png",
 		"text": "锅",
 		"ruby": "guō",
-		"audio": "cd876ccbb45e3bb26fdb62fd66e40157.mp3"
+		"audio": "cd876ccbb45e3bb26fdb62fd66e40157.mp3",
+		"explain": "skillet"
 	}
 ]

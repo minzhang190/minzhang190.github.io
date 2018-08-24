@@ -3,60 +3,70 @@
 		"image": "eleven.png",
 		"text": "十一",
 		"ruby": "shí yī",
-		"audio": "6863d827d8ebcaf3388ea2fb4c3745d9.mp3"
+		"audio": "6863d827d8ebcaf3388ea2fb4c3745d9.mp3",
+		"explain": "eleven"
 	},
 	{
 		"image": "twelve.png",
 		"text": "十二",
 		"ruby": "shí èr",
-		"audio": "c04fc25ea74f3266b1a1c772837a1d32.mp3"
+		"audio": "c04fc25ea74f3266b1a1c772837a1d32.mp3",
+		"explain": "twelve"
 	},
 	{
 		"image": "thirteen.png",
 		"text": "十三",
 		"ruby": "shí sān",
-		"audio": "4a1cecc8381860a57bd1981034869610.mp3"
+		"audio": "4a1cecc8381860a57bd1981034869610.mp3",
+		"explain": "thirteen"
 	},
 	{
 		"image": "fourteen.png",
 		"text": "十四",
 		"ruby": "shí sì",
-		"audio": "a9019bd013cf87fb6937eb464116dc4d.mp3"
+		"audio": "a9019bd013cf87fb6937eb464116dc4d.mp3",
+		"explain": "fourteen"
 	},
 	{
 		"image": "fifteen.png",
 		"text": "十五",
 		"ruby": "shí wǔ",
-		"audio": "5260c1f7010917bc35fa24a78826b82a.mp3"
+		"audio": "5260c1f7010917bc35fa24a78826b82a.mp3",
+		"explain": "fifteen"
 	},
 	{
 		"image": "sixteen.png",
 		"text": "十六",
 		"ruby": "shí liù",
-		"audio": "f15bd14b07fa6bd94e2b83cc5e04327c.mp3"
+		"audio": "f15bd14b07fa6bd94e2b83cc5e04327c.mp3",
+		"explain": "sixteen"
 	},
 	{
 		"image": "seventeen.png",
 		"text": "十七",
 		"ruby": "shí qī",
-		"audio": "f44be04f47cb5264b5710e8eee86b69f.mp3"
+		"audio": "f44be04f47cb5264b5710e8eee86b69f.mp3",
+		"explain": "seventeen"
 	},
 	{
 		"image": "eighteen.png",
 		"text": "十八",
 		"ruby": "shí bā",
-		"audio": "83b67cd817c82364413d0794fd7dfd66.mp3"
+		"audio": "83b67cd817c82364413d0794fd7dfd66.mp3",
+		"explain": "eighteen"
 	},
 	{
 		"image": "nineteen.png",
 		"text": "十九",
 		"ruby": "shí jiǔ",
-		"audio": "be192d36ebd87869d3d8db3fd7d75d54.mp3"
+		"audio": "be192d36ebd87869d3d8db3fd7d75d54.mp3",
+		"explain": "nineteen"
 	},
 	{
 		"image": "twenty.png",
 		"text": "二十",
 		"ruby": "èr shí",
-		"audio": "39f55a21ebc6a1af613cdbbc33f3161e.mp3"
+		"audio": "39f55a21ebc6a1af613cdbbc33f3161e.mp3",
+		"explain": "twenty"
 	}
 ]

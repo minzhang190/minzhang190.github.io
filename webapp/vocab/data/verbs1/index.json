@@ -3,48 +3,56 @@
 		"image": "applaud.png",
 		"text": "拍手",
 		"ruby": "pāi shǒu",
-		"audio": "d6c41880149efc3828a673dc16e7a673.mp3"
+		"audio": "d6c41880149efc3828a673dc16e7a673.mp3",
+		"explain": "applaud"
 	},
 	{
 		"image": "kick.png",
 		"text": "踢腿",
 		"ruby": "tī tuǐ",
-		"audio": "050fe6de36fe7ddc29fab9574c43bbe3.mp3"
+		"audio": "050fe6de36fe7ddc29fab9574c43bbe3.mp3",
+		"explain": "kick"
 	},
 	{
 		"image": "open_verbs.png",
 		"text": "开",
 		"ruby": "kāi",
-		"audio": "8493205602379573013b8d3335981175.mp3"
+		"audio": "8493205602379573013b8d3335981175.mp3",
+		"explain": "open"
 	},
 	{
 		"image": "close.png",
 		"text": "关",
 		"ruby": "guān",
-		"audio": "d58a55bceec7591f43232e958928ed10.mp3"
+		"audio": "d58a55bceec7591f43232e958928ed10.mp3",
+		"explain": "close"
 	},
 	{
 		"image": "eat.png",
 		"text": "吃",
 		"ruby": "chī",
-		"audio": "a52b77dfc6b7fc2cd33933e7b70e0d1a.mp3"
+		"audio": "a52b77dfc6b7fc2cd33933e7b70e0d1a.mp3",
+		"explain": "eat"
 	},
 	{
 		"image": "drink.png",
 		"text": "喝",
 		"ruby": "hē",
-		"audio": "57df27116d40fff4fd2a0c3f2338ec3c.mp3"
+		"audio": "57df27116d40fff4fd2a0c3f2338ec3c.mp3",
+		"explain": "drink"
 	},
 	{
 		"image": "walk.png",
 		"text": "走",
 		"ruby": "zǒu",
-		"audio": "0154e79e142c1c73e0859db1b7ce523d.mp3"
+		"audio": "0154e79e142c1c73e0859db1b7ce523d.mp3",
+		"explain": "walk"
 	},
 	{
 		"image": "stop.png",
 		"text": "停",
 		"ruby": "tíng",
-		"audio": "87438613ad04d57ce8aee26b251bfec9.mp3"
+		"audio": "87438613ad04d57ce8aee26b251bfec9.mp3",
+		"explain": "stop"
 	}
 ]

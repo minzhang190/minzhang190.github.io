@@ -3,36 +3,42 @@
 		"image": "hair.png",
 		"text": "头发",
 		"ruby": "tóu fà",
-		"audio": "d75cf77061386e0b1754a488c8c4293b.mp3"
+		"audio": "d75cf77061386e0b1754a488c8c4293b.mp3",
+		"explain": "hair"
 	},
 	{
 		"image": "face.png",
 		"text": "脸",
 		"ruby": "liǎn",
-		"audio": "390eddf63a285ee2400d5a5eba5d2a67.mp3"
+		"audio": "390eddf63a285ee2400d5a5eba5d2a67.mp3",
+		"explain": "face"
 	},
 	{
 		"image": "ear.png",
 		"text": "耳朵",
 		"ruby": "ěr duo",
-		"audio": "62507462c9a26d733b3828b0fd0bc642.mp3"
+		"audio": "62507462c9a26d733b3828b0fd0bc642.mp3",
+		"explain": "ear"
 	},
 	{
 		"image": "eye.png",
 		"text": "眼睛",
 		"ruby": "yǎn jīng",
-		"audio": "946f5c8c6903b9f74125c4fe026e6dcd.mp3"
+		"audio": "946f5c8c6903b9f74125c4fe026e6dcd.mp3",
+		"explain": "eye"
 	},
 	{
 		"image": "nose.png",
 		"text": "鼻子",
 		"ruby": "bí zi",
-		"audio": "e6134a29931ad14d89de9017a9213734.mp3"
+		"audio": "e6134a29931ad14d89de9017a9213734.mp3",
+		"explain": "nose"
 	},
 	{
 		"image": "mouth.png",
 		"text": "嘴",
 		"ruby": "zuǐ",
-		"audio": "3697bfcf41bffc3265c0052b99e876fc.mp3"
+		"audio": "3697bfcf41bffc3265c0052b99e876fc.mp3",
+		"explain": "mouth"
 	}
 ]

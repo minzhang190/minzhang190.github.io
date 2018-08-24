@@ -3,66 +3,77 @@
 		"image": "giraffe.png",
 		"text": "长颈鹿",
 		"ruby": "cháng jǐng lù",
-		"audio": "128cb009db78dcccceb9a08281ebfcf8.mp3"
+		"audio": "128cb009db78dcccceb9a08281ebfcf8.mp3",
+		"explain": "giraffe"
 	},
 	{
 		"image": "kangaroo.png",
 		"text": "袋鼠",
 		"ruby": "dài shǔ",
-		"audio": "5e48757d0ef96523ac48a6554ff53c22.mp3"
+		"audio": "5e48757d0ef96523ac48a6554ff53c22.mp3",
+		"explain": "kangaroo"
 	},
 	{
 		"image": "lion.png",
 		"text": "狮子",
 		"ruby": "shī zi",
-		"audio": "a44a2ad494be341977b955eff385f8d6.mp3"
+		"audio": "a44a2ad494be341977b955eff385f8d6.mp3",
+		"explain": "lion"
 	},
 	{
 		"image": "owl.png",
 		"text": "猫头鹰",
 		"ruby": "māo tóu yīng",
-		"audio": "2814ba87965c66e48796e526dc4caf84.mp3"
+		"audio": "2814ba87965c66e48796e526dc4caf84.mp3",
+		"explain": "owl"
 	},
 	{
 		"image": "rhinoceros.png",
 		"text": "犀牛",
 		"ruby": "xī niú",
-		"audio": "c14dedba598582a61932ba3612d19a12.mp3"
+		"audio": "c14dedba598582a61932ba3612d19a12.mp3",
+		"explain": "rhinoceros"
 	},
 	{
 		"image": "turtle.png",
 		"text": "乌龟",
 		"ruby": "wū guī",
-		"audio": "90e759bad0da500c114646ed136f1536.mp3"
+		"audio": "90e759bad0da500c114646ed136f1536.mp3",
+		"explain": "turtle"
 	},
 	{
 		"image": "zebra.png",
 		"text": "斑马",
 		"ruby": "bān mǎ",
-		"audio": "4555b99b4109a6cdc098ecee071c9907.mp3"
+		"audio": "4555b99b4109a6cdc098ecee071c9907.mp3",
+		"explain": "zebra"
 	},
 	{
 		"image": "bee.png",
 		"text": "蜜蜂",
 		"ruby": "mì fēng",
-		"audio": "7fb521ebc65c3e31b601f378bc33f0d3.mp3"
+		"audio": "7fb521ebc65c3e31b601f378bc33f0d3.mp3",
+		"explain": "bee"
 	},
 	{
 		"image": "butterfly.png",
 		"text": "蝴蝶",
 		"ruby": "hú dié",
-		"audio": "4d192dbe97708b085c5e16c6f02a1d29.mp3"
+		"audio": "4d192dbe97708b085c5e16c6f02a1d29.mp3",
+		"explain": "butterfly"
 	},
 	{
 		"image": "elephant.png",
 		"text": "大象",
 		"ruby": "dà xiàng",
-		"audio": "e33d101cae2f9056d5426aea50643430.mp3"
+		"audio": "e33d101cae2f9056d5426aea50643430.mp3",
+		"explain": "elephant"
 	},
 	{
 		"image": "fox.png",
 		"text": "狐狸",
 		"ruby": "hú lí",
-		"audio": "d40275dd72ad79fd7b2fb7eb2bb0bb94.mp3"
+		"audio": "d40275dd72ad79fd7b2fb7eb2bb0bb94.mp3",
+		"explain": "fox"
 	}
 ]

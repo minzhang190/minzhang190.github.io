@@ -3,18 +3,21 @@
 		"image": "watermelon.png",
 		"text": "西瓜",
 		"ruby": "xī guā",
-		"audio": "b9af3fd5d3ec98dd470a54ddf393eada.mp3"
+		"audio": "b9af3fd5d3ec98dd470a54ddf393eada.mp3",
+		"explain": "watermelon"
 	},
 	{
 		"image": "pineapple.png",
 		"text": "菠萝",
 		"ruby": "bō luó",
-		"audio": "4993e606341ad31babce44dc75682b52.mp3"
+		"audio": "4993e606341ad31babce44dc75682b52.mp3",
+		"explain": "pineapple"
 	},
 	{
 		"image": "orange_food.png",
 		"text": "橙子",
 		"ruby": "chéng zi",
-		"audio": "f24b6a37816274b929b59c3f7766163a.mp3"
+		"audio": "f24b6a37816274b929b59c3f7766163a.mp3",
+		"explain": "orange"
 	}
 ]

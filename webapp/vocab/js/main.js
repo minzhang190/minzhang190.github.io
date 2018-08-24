@@ -1,6 +1,7 @@
 (function($) {
     $(function() {
         window.$game = $("#game").show().remove();
+        window.$learn = $("#learn").show().remove();
 
         $('<div class="alert alert-primary" role="alert">Loading data...</div>').appendTo('#root');
 

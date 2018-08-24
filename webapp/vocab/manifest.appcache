@@ -4,7 +4,7 @@ CACHE MANIFEST
 CACHE:
 
 index.html
-# 7755ae764357d87d7e5e000f36c98901
+# 8048e9c0f84380775c217703d1f7063b
 
 manifest.json
 # d23ae4c485abc166e7d906d03ced8339
@@ -21,11 +21,14 @@ js/game3.js
 js/mobile.js
 # d595e183e1139c233cbfcf2ce1e1689c
 
+js/learn.js
+# dcd1151395daca0382dafafe0e6a77bc
+
 js/main.js
-# ee331d63ce14256f7090587ed8c1b2eb
+# b273e48809b4ef51afba647bba24cdf0
 
 js/list.js
-# 4801fca7020088adc1632760f5ad13db
+# dee46012cc58fa80f5a418afcd69a002
 
 js/game1.js
 # 3f37e6888fe6b0ce338ee6d982f5d8c2
@@ -90,11 +93,14 @@ css/game.css
 css/game3.css
 # c1b24db228beaf027ec3bb6d13ec91b8
 
+css/learn.css
+# a63116f649ca25ff20c8ff885c5970d3
+
 css/game1.css
 # 43a3ff17581dbcde94c25c78a9b41653
 
 data/index.json
-# 8572c975db220861b74cd99ec6b790be
+# ebe083b0386569c40347a62c81f15b83
 
 data/body2/e6134a29931ad14d89de9017a9213734.mp3
 # f31ff8c7fb571317dd4f9252c6279d0b
@@ -112,7 +118,7 @@ data/body2/mouth.png
 # cc854a211d4b9dce6137db8cdd834ae8
 
 data/body2/index.json
-# 3fe3d3fe1beb5b8cd8c897e63decea34
+# 234fdff7f4fdd6450b030943d9a768b2
 
 data/body2/face.png
 # e868884145377979c2f91b062543ed9b
@@ -160,7 +166,7 @@ data/school/computer.png
 # e34ba41351c16e4ec15ff5e1fc9befc1
 
 data/school/index.json
-# f4e6ac401fa9575553b1c88a5950063e
+# d62655a2e2e7ffda9a50478485e5b7aa
 
 data/school/bdd8f7bb0d184c59d898432c1221a970.mp3
 # 3bab4d40440b6f0f8e4f6bce3beccf64
@@ -202,7 +208,7 @@ data/food2/pasta.png
 # e97da99fa6509978d7e73f8c020099e3
 
 data/food2/index.json
-# 9579d818c80673e034c309a02c032f87
+# 29995fa7ad6d900eccd0fb71e951b716
 
 data/food2/cheese.png
 # aef5bf3c08847b5e4db25324631087ba
@@ -235,7 +241,7 @@ data/clothes3/285eb67388c6b1ea5902229589822db6.mp3
 # d862b4b2842252468124622057abca1e
 
 data/clothes3/index.json
-# 4a3d73b5b10e2129d4d98064b02cc2ae
+# 6121531f94456860debf56584fd0a1f0
 
 data/clothes3/pajamas.png
 # 58d414c2be2a961d5feb96562dbafe23
@@ -283,7 +289,7 @@ data/verbs1/kick.png
 # 7723d348f2bd253c55d55c6634c96ec3
 
 data/verbs1/index.json
-# e9a269e4d2340c003532bd7ab4aab50d
+# fba446b9de05adecf40e626e9a5e4b4c
 
 data/verbs1/open_verbs.png
 # 5ddfc80b95e651f8fc0a206f9bb8bc3f
@@ -322,7 +328,7 @@ data/food1/e51a450767100cc3fc339a2bf3f2b3a4.mp3
 # 440503838cb3c5c412c3d42f057fc2fc
 
 data/food1/index.json
-# bc9e28ebc8fab2983bfc7e1bb5d8bd41
+# 3ad9011a390768196e5d6ed133938fe1
 
 data/food1/94a755afe77ae363c48d230abdfdd8cd.mp3
 # bcaa1ccc5b9f9dd69c4666ac530cce85
@@ -355,7 +361,7 @@ data/bedroom/chestOfDrawers.png
 # c890a5617a513e358653cfc8a232e70e
 
 data/bedroom/index.json
-# 82d0edc1db148716ba25ddcf0fc381d9
+# 65a0436c8a220a8d6ad67f69068c1495
 
 data/bedroom/86750ef0381160b3fb7971b6eee7641e.mp3
 # e5d39ccbfa35dac29f33a6413e8217f4
@@ -412,7 +418,7 @@ data/animals2/bird.png
 # 86d20e21d400474f71ba0a976c60268f
 
 data/animals2/index.json
-# 6d8609f8066d1c078914eec0e0753509
+# a095f8666a9ea6473190649a728d8ea5
 
 data/animals2/bear.png
 # fe4d472c0ef1b41244882266acd7b378
@@ -466,7 +472,7 @@ data/shapes/29f12d806915b9aa2718de545e42591a.mp3
 # 3dbbe315a17030692f78fb5f6dcf0c35
 
 data/shapes/index.json
-# 8c903873f9763677171ca421e9e0c4e5
+# bd7e78689ea39e411d01b4003979f222
 
 data/shapes/7e0f6190288fd987ef2cb277dd29c9b9.mp3
 # 0f21e490bb08020fbaaaf7b14214342f
@@ -508,7 +514,7 @@ data/verbs2/read.png
 # 4860eeac7a001f9d3659d58dd6c390c8
 
 data/verbs2/index.json
-# 100ee86361b775ea75722dd319d90253
+# d106e62d05dfa2182be1f9b10f2f452b
 
 data/verbs2/write.png
 # 6ff4ce8de5aab51c349cba1656865285
@@ -553,7 +559,7 @@ data/animals1/bird.png
 # 86d20e21d400474f71ba0a976c60268f
 
 data/animals1/index.json
-# f219161cd7ef41d4d042115028668049
+# 12b997e2dab174071eeda97d744a87cd
 
 data/animals1/acf5547a8c991e92e89988fd0f972b93.mp3
 # d31ed54b9b08579b7ccb20d125e1d874
@@ -577,7 +583,7 @@ data/bathroom2/soap.png
 # 9497defbb9e49656e34b06532cc63a63
 
 data/bathroom2/index.json
-# aeb2e65b217c7e31f9de68ecacdc1ae4
+# d47475b72a63fa6bf856ea90a0f4ff72
 
 data/bathroom2/toothbrush.png
 # 1ef00d172e2cbf73dc947c63f2978afe
@@ -619,7 +625,7 @@ data/fruits2/f24b6a37816274b929b59c3f7766163a.mp3
 # 2fc1742f0479a809d0f5a20973419f73
 
 data/fruits2/index.json
-# 13112c08730b6c0e93589f8d2eb1e74d
+# 6fd13a5b44e2e144d99de7161b12c451
 
 data/fruits2/4993e606341ad31babce44dc75682b52.mp3
 # 3a81610c575d0a5c67a3883b44228647
@@ -649,7 +655,7 @@ data/family/033e1fb01ca6d2633d45c2f800b6b82f.mp3
 # dde59eb842aceb865c911c36a251ee68
 
 data/family/index.json
-# 4eb35351c63a9218e8e94b912894d2a4
+# 01f59cea8a54fb417b96dfd5dae4e5bb
 
 data/family/grandfather.png
 # 24a56e49b98f57e2715bffe1b0f8b39a
@@ -700,7 +706,7 @@ data/body3/toe.png
 # 96adf19f43614ec9191572b573f00c6f
 
 data/body3/index.json
-# 5839186bd757584676c3b69234c2a911
+# 5a03c8bb4f05059c19163811a9f618bc
 
 data/body3/6a3a1a2cb60d60066136cb521d76794c.mp3
 # bea8037fd43c80be6661404a5a870356
@@ -754,7 +760,7 @@ data/travel/e7e95e68131111d2919ca22be536d85c.mp3
 # adee444d48c8eea3f00fa7891f25f897
 
 data/travel/index.json
-# a4f745996e5f4f4a595752207e9981b3
+# 2dd2fda364c534e76276396a7c6f0089
 
 data/travel/16678800cfd0dbafee362ea4ba12edd3.mp3
 # 8ffa215c2db57c64231edefddef7869d
@@ -811,7 +817,7 @@ data/weather/060e263e4b227bac54624c4e396b52e5.mp3
 # f954276a03e6d41b2068bb4724f0b7af
 
 data/weather/index.json
-# a905847d2673919e21f19fe32e843fca
+# e4b23a7087b4e0202788fef988f19eb8
 
 data/weather/1837e3d126e72b64ba97e116bae2b250.mp3
 # 3a4452c9b19ad95e78ab04b3c2bf76ac
@@ -844,7 +850,7 @@ data/office1/briefcase.png
 # db21595a8b1f40dbd5ec71733e569868
 
 data/office1/index.json
-# 2fb69309c14a4ef61d1bb0e58e239949
+# ce892d0031c37d4d7717f3e9794d888e
 
 data/office1/93cfc1e1108f6a879f6e0157fe36a7a3.mp3
 # 87f93801acb8bf7f8e2ededa1f560069
@@ -880,7 +886,7 @@ data/office2/d6b514d858b61e0eb1ec22eaf582327a.mp3
 # b7d754effc0cbdd1fc6d3563d3bdc901
 
 data/office2/index.json
-# 010619902c1eefcd779cb5b585f23586
+# 98dab58dcb8ed0c5bab63d7cc37b7fc7
 
 data/office2/e2113d88d487653da85f66906bdb61b8.mp3
 # cf5e319be8bb410b7d143227c28c8ada
@@ -919,7 +925,7 @@ data/fruits1/apple.png
 # 94379870dde5dbfc6d667e6f0f52e690
 
 data/fruits1/index.json
-# e216859348612de4f2664cd00b073ae4
+# 8dcba5eeecaac7173498e7c2c5cbcb36
 
 data/fruits1/fruits.png
 # c16ac581bdf0afb66a968ff1ff5d7a52
@@ -961,7 +967,7 @@ data/numbers1/two.png
 # 3f9dc94f6e83618425b4dddcddfc23e5
 
 data/numbers1/index.json
-# 25ce0debc307ffe625e77e4521521765
+# be69dea4b9c5eefbc7a32cea3be14502
 
 data/numbers1/21716cf311071e8d339b611c8bdce9e4.mp3
 # 3ddfc8562479e11d30eb5c077a8cb67f
@@ -1021,7 +1027,7 @@ data/colors/grey.png
 # 7aa224bb975401582f6b4126cac6ac48
 
 data/colors/index.json
-# 78a01103642bfd8114c26ff8d1508f6d
+# cc3ea4f1d2855697206f770d569f8ba4
 
 data/colors/97542386a90fa65e896c4b8459fd6bc0.mp3
 # 5831c9fcc18a5b8fe2d983fde7c960d9
@@ -1096,7 +1102,7 @@ data/body1/head.png
 # d8cd898e04c2a6a28c7bb0bf5704d6e6
 
 data/body1/index.json
-# 2e8a7390dbf6e627fa0eeb22f4b8dfe5
+# 228e474e14b2ab60fe8ad320391bc1fa
 
 data/body1/4be2abbcf7d3f280c292a8d0c4fbba98.mp3
 # b7aaad62249bd91e3e0c89aaa71a225c
@@ -1111,7 +1117,7 @@ data/clothes1/dress.png
 # f4c28f54f46037ed0307f9e2b8f65143
 
 data/clothes1/index.json
-# f4756286f1d3271b2b85576a7122838f
+# 49a84121c756384f9ffa477a501e1889
 
 data/clothes1/shirt.png
 # 7507c95be319f010f4b151ae1bb61133
@@ -1174,7 +1180,7 @@ data/months/september.png
 # 1dabfd876f2a54795c5d270f01b70aa4
 
 data/months/index.json
-# 3be0e60a706f2bd3edf65c10a2c0a1f0
+# 2218f29600f04364f2c7f0a8f08ecb00
 
 data/months/november.png
 # 430af1b64ce315505e1c9612021e4bc5
@@ -1240,7 +1246,7 @@ data/numbers2/nineteen.png
 # bc7b6999af6759d63601391def599d9d
 
 data/numbers2/index.json
-# d23cce4b2f6c3ba191cd0c46c6331c40
+# 1976102fa401518d0629c9ea5304b3b9
 
 data/numbers2/seventeen.png
 # 0c6b4d264365dec037947e9795fdfdc0
@@ -1303,7 +1309,7 @@ data/days/711d996d87638acb6b93552fca140942.mp3
 # 53c5c2766f1b201740981882315faf1c
 
 data/days/index.json
-# c441413cc7e96f910b1f3b01269a6c6e
+# abd7492fe22eb385901d460eff04edcf
 
 data/days/tuesday.png
 # 3351649b925b767c53a4380dd6afb13d
@@ -1357,7 +1363,7 @@ data/animals3/c14dedba598582a61932ba3612d19a12.mp3
 # af9f9bbd55647e33a82224320d95895c
 
 data/animals3/index.json
-# 70b727d4888c42b38195ccafd4185d1b
+# 5bba54beffda074a4ce9e5fca25e238c
 
 data/animals3/zebra.png
 # 63c3c794679cc91ff0669d6c85db9062
@@ -1417,7 +1423,7 @@ data/bathroom1/tissues.png
 # 389e7d34bac2ec2ad27098092856cbe6
 
 data/bathroom1/index.json
-# 0f8ae347ef3166f8a30fc31ae99f475a
+# 741b958bf08c69d2422d08000d60133e
 
 data/bathroom1/bathtub.png
 # 6055c8c01c9e8aa32cc37f52dbfb00bf
@@ -1450,7 +1456,7 @@ data/clothes2/sunglasses.png
 # 9394486cfe231e86042869e677b7562a
 
 data/clothes2/index.json
-# 4efcc18c91d77ff2a1e2108842553472
+# 7a0871c6d8673ed199d67cd1d4842a89
 
 data/clothes2/scarf.png
 # 7c870f5130b8a6a476c631c156468525
@@ -1498,7 +1504,7 @@ data/fruits3/5778d33602d866ffa0cce05da8b752f8.mp3
 # cd008af50af489061c349b3810c0bf70
 
 data/fruits3/index.json
-# cdf5c5b77456345e95f4813d4a799b1a
+# ddcf5107665d3afc38bd05cdf93e436f
 
 data/fruits3/bf44b741b21480e3b1a6fba8252beed4.mp3
 # 84314004823ced6e45ba4c2e973deef4
@@ -1543,7 +1549,7 @@ data/kitchen/garbageCan.png
 # 804023374e35cd5e7e79a60ed0a443ba
 
 data/kitchen/index.json
-# 077c34081061b70e741c884a74de50a5
+# aa024cca3f1c5cebacf491f2cb7b031b
 
 data/kitchen/knife.png
 # 108a178b2833ee54c58885e909c2b188

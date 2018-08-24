@@ -3,30 +3,35 @@
 		"image": "arm.png",
 		"text": "手臂",
 		"ruby": "shǒu bì",
-		"audio": "b9dde3af2c7dc75c2cd79b70dd4d9a1e.mp3"
+		"audio": "b9dde3af2c7dc75c2cd79b70dd4d9a1e.mp3",
+		"explain": "arm"
 	},
 	{
 		"image": "hand.png",
 		"text": "手",
 		"ruby": "shǒu",
-		"audio": "3c7d183f1b71f6dde829c8ff17289f4b.mp3"
+		"audio": "3c7d183f1b71f6dde829c8ff17289f4b.mp3",
+		"explain": "hand"
 	},
 	{
 		"image": "head.png",
 		"text": "头",
 		"ruby": "tóu",
-		"audio": "4be2abbcf7d3f280c292a8d0c4fbba98.mp3"
+		"audio": "4be2abbcf7d3f280c292a8d0c4fbba98.mp3",
+		"explain": "head"
 	},
 	{
 		"image": "shoulder.png",
 		"text": "肩膀",
 		"ruby": "jiān bǎng",
-		"audio": "3307b29dbab1b3159129aedcba642c02.mp3"
+		"audio": "3307b29dbab1b3159129aedcba642c02.mp3",
+		"explain": "shoulder"
 	},
 	{
 		"image": "finger.png",
 		"text": "手指",
 		"ruby": "shǒu zhǐ",
-		"audio": "7f3784c850518b5520e1a9b978a87dc4.mp3"
+		"audio": "7f3784c850518b5520e1a9b978a87dc4.mp3",
+		"explain": "finger"
 	}
 ]
