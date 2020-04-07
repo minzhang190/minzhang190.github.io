@@ -4,7 +4,7 @@ CACHE MANIFEST
 CACHE:
 
 index.html
-# 8048e9c0f84380775c217703d1f7063b
+# 53a3717409c0644a1e61a9acf6dda526
 
 manifest.json
 # d23ae4c485abc166e7d906d03ced8339
@@ -25,7 +25,7 @@ js/learn.js
 # dcd1151395daca0382dafafe0e6a77bc
 
 js/main.js
-# b273e48809b4ef51afba647bba24cdf0
+# aa821b8c49b352441ba95068804cac36
 
 js/list.js
 # dee46012cc58fa80f5a418afcd69a002
@@ -100,7 +100,7 @@ css/game1.css
 # 43a3ff17581dbcde94c25c78a9b41653
 
 data/index.json
-# ebe083b0386569c40347a62c81f15b83
+# b33a5b215ea959c2d7118d4feb6520ed
 
 data/body2/e6134a29931ad14d89de9017a9213734.mp3
 # f31ff8c7fb571317dd4f9252c6279d0b
@@ -224,6 +224,129 @@ data/food2/meat.png
 
 data/food2/f37896e63b9eaf32c17a2c19c9bde1dd.mp3
 # 5ede2cf079d53e81debc526be96eeafd
+
+data/fruits4b/5e8bf946f6082885ff046ab6.zh.male.mp3
+# 2596a274d1186a2be4dd57d01e06f98d
+
+data/fruits4b/5e8bf947f6082885ff046ab8.zh.male.mp3
+# 0b6847d4739978104b9d79da07e0a875
+
+data/fruits4b/5e8bf943f6082885ff046ab2.zh.male.mp3
+# 37584652f4eb0f9e2acb0ef3ba9780b7
+
+data/fruits4b/5e8bf941f6082885ff046aaf.zh.male.mp3
+# dac1378421f31968e152a48986a1656f
+
+data/fruits4b/5e8bf946f6082885ff046ab6.png
+# da376508268a0d4c94b86902a960be26
+
+data/fruits4b/5e8bf944f6082885ff046ab3.zh.male.mp3
+# 73a81d855428c49960cca0bd25d7756f
+
+data/fruits4b/5e8bf93df6082885ff046aaa.png
+# 8079e7d9a1c44ffb5c97e0804704f917
+
+data/fruits4b/5e8bf944f6082885ff046ab3.png
+# 63a071a0e2df6d8f319c76c8143bd802
+
+data/fruits4b/5e8bf93cf6082885ff046aa8.zh.male.mp3
+# 294f10def849bb31404cc120fa0f29fe
+
+data/fruits4b/5e8bf93ff6082885ff046aad.zh.male.mp3
+# 19721a6b65b375549029ef2db4286ff3
+
+data/fruits4b/5e8bf93ef6082885ff046aab.zh.male.mp3
+# 0f761e5a6612d6fbee1cd5a00fb15296
+
+data/fruits4b/5e8bf942f6082885ff046ab0.png
+# db11c15b21b445ba9d1b1c6394834691
+
+data/fruits4b/5e8bf93ef6082885ff046aac.zh.male.mp3
+# 3429a838a94e5c383836d38b14dca995
+
+data/fruits4b/5e8bf948f6082885ff046ab9.zh.male.mp3
+# 2fdf6742998f652e481bb04b5699f4ef
+
+data/fruits4b/5e8bf93af6082885ff046aa6.png
+# 389870973a3b9eb017793d11c3cb63d4
+
+data/fruits4b/index.json
+# 8286127f4c10f0adaf4505c753cd3a65
+
+data/fruits4b/5e8bf93ef6082885ff046aac.png
+# 77d993c174949dfa0b05f47529e839ae
+
+data/fruits4b/5e8bf944f6082885ff046ab4.zh.male.mp3
+# ae3c8d5cf3609143f582b95a462dad9b
+
+data/fruits4b/5e8bf944f6082885ff046ab4.png
+# e7397c2f966642b49bf50da43b482247
+
+data/fruits4b/5e8bf93af6082885ff046aa6.zh.male.mp3
+# da6f6f6fc1a3773c5ee2ea3fe66dd3ac
+
+data/fruits4b/5e8bf945f6082885ff046ab5.png
+# 105faf3d7343f6db7f2cc0326312eb91
+
+data/fruits4b/5e8bf93bf6082885ff046aa7.zh.male.mp3
+# 1b738ceb5534290bbe198d76dcda405f
+
+data/fruits4b/5e8bf93bf6082885ff046aa7.png
+# 9838e8e6438ac9ad8a81e9a5e961fb6e
+
+data/fruits4b/5e8bf942f6082885ff046ab1.zh.male.mp3
+# 82120132f5977662b90b7f716f3b55fe
+
+data/fruits4b/5e8bf947f6082885ff046ab8.png
+# 467d1451a43eb08298d46a64f13f0aaa
+
+data/fruits4b/5e8bf93df6082885ff046aaa.zh.male.mp3
+# 3ba968dafa7320b767fa306f1e1b9a9d
+
+data/fruits4b/5e8bf945f6082885ff046ab5.zh.male.mp3
+# 364ed757cd9625dc577873477d7b5b23
+
+data/fruits4b/5e8bf93cf6082885ff046aa8.png
+# d3ddcd914befc14e9806ca27d181f70c
+
+data/fruits4b/5e8bf93cf6082885ff046aa9.png
+# 2ddacdd0e0b7092e93ff44a0e706bf8e
+
+data/fruits4b/5e8bf940f6082885ff046aae.zh.male.mp3
+# 0bc7b5aa2a9dc556c105046da10e7c23
+
+data/fruits4b/5e8bf940f6082885ff046aae.png
+# 66f3884f745d9f77211c8997f9ecc382
+
+data/fruits4b/5e8bf942f6082885ff046ab1.png
+# c7090dbe7c91452d7ea239fe476f6dcd
+
+data/fruits4b/5e8bf946f6082885ff046ab7.png
+# 656221f1405e0a95500c7db5709fa70e
+
+data/fruits4b/5e8bf941f6082885ff046aaf.png
+# fecc0fdf572c926cadc7c8accb4d5ae2
+
+data/fruits4b/5e8bf943f6082885ff046ab2.png
+# bb5b1ddf4a91945f430284a12c29f43d
+
+data/fruits4b/5e8bf946f6082885ff046ab7.zh.male.mp3
+# 6db9debf08bebc032ecfc065a1bed444
+
+data/fruits4b/5e8bf93ff6082885ff046aad.png
+# d08d47df0cba4233399ae2ba4dfc5298
+
+data/fruits4b/5e8bf942f6082885ff046ab0.zh.male.mp3
+# e1d546b6afb602c1c7ed6d7ee125af80
+
+data/fruits4b/5e8bf948f6082885ff046ab9.png
+# 3db044c1961ddd74a028d4fe70303cf7
+
+data/fruits4b/5e8bf93ef6082885ff046aab.png
+# 6e8638854c01d15536c4fac3743b408e
+
+data/fruits4b/5e8bf93cf6082885ff046aa9.zh.male.mp3
+# 81af5fa5619a92826656eefaf2685288
 
 data/clothes3/32d5f4e754e30df60d17aec013f2df29.mp3
 # c43a1dd679b124d0816d617a9aaa2fba
@@ -545,6 +668,129 @@ data/verbs2/d49c9b66f60fcd18b35d7c0e5e97bc12.mp3
 
 data/verbs2/c5032ff770b776c513513949401b7b2f.mp3
 # 1a0b4f372477ff969cc09569cf83bb48
+
+data/fruits4a/5e8bf946f6082885ff046ab6.zh.male.mp3
+# 2596a274d1186a2be4dd57d01e06f98d
+
+data/fruits4a/5e8bf947f6082885ff046ab8.zh.male.mp3
+# 0b6847d4739978104b9d79da07e0a875
+
+data/fruits4a/5e8bf943f6082885ff046ab2.zh.male.mp3
+# 37584652f4eb0f9e2acb0ef3ba9780b7
+
+data/fruits4a/5e8bf941f6082885ff046aaf.zh.male.mp3
+# dac1378421f31968e152a48986a1656f
+
+data/fruits4a/5e8bf946f6082885ff046ab6.png
+# da376508268a0d4c94b86902a960be26
+
+data/fruits4a/5e8bf944f6082885ff046ab3.zh.male.mp3
+# 73a81d855428c49960cca0bd25d7756f
+
+data/fruits4a/5e8bf93df6082885ff046aaa.png
+# 8079e7d9a1c44ffb5c97e0804704f917
+
+data/fruits4a/5e8bf944f6082885ff046ab3.png
+# 63a071a0e2df6d8f319c76c8143bd802
+
+data/fruits4a/5e8bf93cf6082885ff046aa8.zh.male.mp3
+# 294f10def849bb31404cc120fa0f29fe
+
+data/fruits4a/5e8bf93ff6082885ff046aad.zh.male.mp3
+# 19721a6b65b375549029ef2db4286ff3
+
+data/fruits4a/5e8bf93ef6082885ff046aab.zh.male.mp3
+# 0f761e5a6612d6fbee1cd5a00fb15296
+
+data/fruits4a/5e8bf942f6082885ff046ab0.png
+# db11c15b21b445ba9d1b1c6394834691
+
+data/fruits4a/5e8bf93ef6082885ff046aac.zh.male.mp3
+# 3429a838a94e5c383836d38b14dca995
+
+data/fruits4a/5e8bf948f6082885ff046ab9.zh.male.mp3
+# 2fdf6742998f652e481bb04b5699f4ef
+
+data/fruits4a/5e8bf93af6082885ff046aa6.png
+# 389870973a3b9eb017793d11c3cb63d4
+
+data/fruits4a/index.json
+# 884b6c4020bdfedc5ba1aa13c4fd7bb9
+
+data/fruits4a/5e8bf93ef6082885ff046aac.png
+# 77d993c174949dfa0b05f47529e839ae
+
+data/fruits4a/5e8bf944f6082885ff046ab4.zh.male.mp3
+# ae3c8d5cf3609143f582b95a462dad9b
+
+data/fruits4a/5e8bf944f6082885ff046ab4.png
+# e7397c2f966642b49bf50da43b482247
+
+data/fruits4a/5e8bf93af6082885ff046aa6.zh.male.mp3
+# da6f6f6fc1a3773c5ee2ea3fe66dd3ac
+
+data/fruits4a/5e8bf945f6082885ff046ab5.png
+# 105faf3d7343f6db7f2cc0326312eb91
+
+data/fruits4a/5e8bf93bf6082885ff046aa7.zh.male.mp3
+# 1b738ceb5534290bbe198d76dcda405f
+
+data/fruits4a/5e8bf93bf6082885ff046aa7.png
+# 9838e8e6438ac9ad8a81e9a5e961fb6e
+
+data/fruits4a/5e8bf942f6082885ff046ab1.zh.male.mp3
+# 82120132f5977662b90b7f716f3b55fe
+
+data/fruits4a/5e8bf947f6082885ff046ab8.png
+# 467d1451a43eb08298d46a64f13f0aaa
+
+data/fruits4a/5e8bf93df6082885ff046aaa.zh.male.mp3
+# 3ba968dafa7320b767fa306f1e1b9a9d
+
+data/fruits4a/5e8bf945f6082885ff046ab5.zh.male.mp3
+# 364ed757cd9625dc577873477d7b5b23
+
+data/fruits4a/5e8bf93cf6082885ff046aa8.png
+# d3ddcd914befc14e9806ca27d181f70c
+
+data/fruits4a/5e8bf93cf6082885ff046aa9.png
+# 2ddacdd0e0b7092e93ff44a0e706bf8e
+
+data/fruits4a/5e8bf940f6082885ff046aae.zh.male.mp3
+# 0bc7b5aa2a9dc556c105046da10e7c23
+
+data/fruits4a/5e8bf940f6082885ff046aae.png
+# 66f3884f745d9f77211c8997f9ecc382
+
+data/fruits4a/5e8bf942f6082885ff046ab1.png
+# c7090dbe7c91452d7ea239fe476f6dcd
+
+data/fruits4a/5e8bf946f6082885ff046ab7.png
+# 656221f1405e0a95500c7db5709fa70e
+
+data/fruits4a/5e8bf941f6082885ff046aaf.png
+# fecc0fdf572c926cadc7c8accb4d5ae2
+
+data/fruits4a/5e8bf943f6082885ff046ab2.png
+# bb5b1ddf4a91945f430284a12c29f43d
+
+data/fruits4a/5e8bf946f6082885ff046ab7.zh.male.mp3
+# 6db9debf08bebc032ecfc065a1bed444
+
+data/fruits4a/5e8bf93ff6082885ff046aad.png
+# d08d47df0cba4233399ae2ba4dfc5298
+
+data/fruits4a/5e8bf942f6082885ff046ab0.zh.male.mp3
+# e1d546b6afb602c1c7ed6d7ee125af80
+
+data/fruits4a/5e8bf948f6082885ff046ab9.png
+# 3db044c1961ddd74a028d4fe70303cf7
+
+data/fruits4a/5e8bf93ef6082885ff046aab.png
+# 6e8638854c01d15536c4fac3743b408e
+
+data/fruits4a/5e8bf93cf6082885ff046aa9.zh.male.mp3
+# 81af5fa5619a92826656eefaf2685288
 
 data/animals1/butterfly.png
 # a0f6fc62facfd5b751ff185113db9704
