@@ -2,7 +2,7 @@
     $(function() {
         window.$game = $("#game").show().remove();
         window.$learn = $("#learn").show().remove();
-        window.whitelist = location.search ? location.search.substring(1).split(',') : null;
+        window.whitelist = location.search ? location.search.substring(1).split('&')[0].split(',') : null;
 
         $('<div class="alert alert-primary" role="alert">Loading data...</div>').appendTo('#root');
 

@@ -74,6 +74,12 @@
     "id": "fruits3",
     "name": "Fruits 3"
 }, {
+    "id": "fruits4a",
+    "name": "Fruits A"
+}, {
+    "id": "fruits4b",
+    "name": "Fruits B"
+}, {
     "id": "kitchen",
     "name": "Kitchen"
 }, {
