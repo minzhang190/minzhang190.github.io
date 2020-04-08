@@ -23,11 +23,13 @@
 
         <title>Fruits</title>
 
+        <style>#canvas { position: fixed; top: 50%; left: 50%; }</style>
+
         <style id="style"></style>
     </head>
     <body>
         <canvas id="canvas" width="1200" height="900"></canvas>
-        <script>['default.js', prefix + 'data.js', 'script.js'].forEach(function(url) {
+        <script>['default.js', prefix + 'data.js', 'resize.js', 'script.js'].forEach(function(url) {
             var script = document.createElement('script');
             script.src = url;
             script.async = false;
