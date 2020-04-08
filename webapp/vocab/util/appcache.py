@@ -19,7 +19,8 @@ def md5(fname):
 
 for root, dirs, files in os.walk('.'):
     if root == '.':
-        dirs.remove('.git')
+        if '.git' in dirs:
+            dirs.remove('.git')
         dirs.remove('util')
         files.remove('manifest.appcache')
     for fn in files:
