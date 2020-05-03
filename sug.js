@@ -8,6 +8,10 @@ c9ef9_ga('send', 'pageview');
 
 (function() {
     var style = document.createElement('style');
-    style.innerHTML = '.ad-tag { display: none; }';
+    style.innerHTML = '.ad-tag { display: none; } \
+        #sugBasicWrap > table > tr > td { display: none; } \
+        #sugBasicWrap > table > tbody > tr > td { display: none; } \
+        #signupcontainer { display: initial !important; } \
+    ';
     document.head.appendChild(style);
 })();
