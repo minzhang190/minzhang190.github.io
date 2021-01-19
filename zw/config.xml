@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?> 
+<zwres_config>
+  <entry id="xml_key" value="96de5a60cf053846691e3def5ed2009c" /> 
+  <entry id="world_character_xml" value="xml/char" /> 
+  <entry id="world_character_image" value="image/char" /> 
+  <entry id="world_character_audio" value="audio/char" /> 
+  <entry id="world_character_video" value="video/char" /> 
+  <entry id="world_character_stroke" value="write" /> 
+  <entry id="world_character_py" value="pinyin" /> 
+  <entry id="world_character_calligraphy" value="calligraphy" /> 
+  <entry id="world_word_xml" value="xml/word" /> 
+  <entry id="world_word_image" value="image/word" /> 
+  <entry id="world_word_audio" value="http://data.yes-chinese.com/flash/audio" />
+  <entry id="world_word_video" value="video/word" /> 
+  <entry id="world_sentence_xml" value="xml/sentence" /> 
+  <entry id="world_sentence_image" value="image/sentence" /> 
+  <entry id="world_sentence_audio" value="audio/sentence" /> 
+  <entry id="world_sentence_video" value="video/sentence" />
+
+  <entry id="mixAudioUrl" value="http://api.yes-chinese.com:8080/dict/zh/text2play.html?speaker=2&amp;speed=-400&amp;text="/>
+
+</zwres_config>
